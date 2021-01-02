@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://mickypaganini.github.io/</loc>
+  <lastmod>2020-02-28T18:19:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mickypaganini.github.io/index.html</loc>
+  <lastmod>2020-02-28T18:19:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mickypaganini.github.io/atlas_splash.html</loc>
+  <lastmod>2020-02-28T18:19:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mickypaganini.github.io/atlasML.html</loc>
+  <lastmod>2020-02-28T18:19:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mickypaganini.github.io/sciencecomms.html</loc>
+  <lastmod>2020-02-28T18:19:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mickypaganini.github.io/resume.pdf</loc>
+  <lastmod>2020-02-28T18:19:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mickypaganini.github.io/MichelaPaganiniCV.pdf</loc>
+  <lastmod>2020-02-28T18:19:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mickypaganini.github.io/pub.html</loc>
+  <lastmod>2020-02-28T18:19:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mickypaganini.github.io/HEPML_directory.html</loc>
+  <lastmod>2020-02-28T18:19:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
